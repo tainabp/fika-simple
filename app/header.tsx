@@ -7,7 +7,7 @@ export function Header() {
     // w-full garante que ele ocupe a largura do container
     <header className="w-full py-4">
       <nav>
-        {/* Usamos as cores e fontes que você já configurou! */}
+        {/* Usamos as cores e fontes que você já configurou */}
         <ul className="flex flex-wrap justify-center space-x-2 text-sm font-bold text-fika-azul">
           <li>
             <Link 
