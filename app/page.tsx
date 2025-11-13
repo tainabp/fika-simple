@@ -44,7 +44,7 @@ export default function HomePage() {
         <section id="proposito" className="w-full my-6 text-left">
           {/* Título: text-3xl (Maior) */}
           <h2 className="text-3xl font-extrabold mb-4">
-            nosso propósito #
+            nosso propósito 
           </h2>
           
           {/* Intro: text-lg (Maior) e leading-snug (Linha justa) */}
@@ -78,7 +78,7 @@ export default function HomePage() {
         <section id="como-jogar" className="w-full my-6 text-left">
           {/* Título: text-3xl (Maior) */}
           <h2 className="text-3xl font-extrabold mb-4">
-            como jogar #
+            como jogar 
           </h2>
           
           {/* Corpo: text-base (Maior) e space-y-2 (Parágrafos juntos) e leading-snug (Linha justa) */}
@@ -116,7 +116,7 @@ export default function HomePage() {
         <section id="onde-encontrar" className="w-full my-6 text-left">
           {/* Título: text-3xl (Maior) */}
           <h2 className="text-3xl font-extrabold mb-4">
-            onde encontrar #
+            onde encontrar 
           </h2>
           
           {/* Corpo: text-base (Maior) e space-y-2 (Parágrafos juntos) e leading-snug (Linha justa) */}
